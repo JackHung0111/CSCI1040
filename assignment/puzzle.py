@@ -1,6 +1,4 @@
-# Hung Yiu Pan
-# 1155108381
-# 1155108381@link.cuhk.edu.hk
+
 # CSCI1040 2020-2021 Term 2 Assignment
 
 # Global Variables
